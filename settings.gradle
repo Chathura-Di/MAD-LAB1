@@ -1,0 +1,2 @@
+rootProject.name = "New Anroid Project"
+include ':app'
